@@ -1,6 +1,6 @@
 ## 👋 Olá, sou o **Ademir**
 
-Sou desenvolvedor fullstack do **Rio de Janeiro**, com experiência em **WordPress**, **Laravel** e **Angular**.  
+Sou desenvolvedor fullstack do **Rio de Janeiro**, com experiência em **Js/Ts**, **Angular**, **PHP** e **Laravel**.
 Desenvolvo **aplicações web dinâmicas e personalizadas**, sempre buscando unir funcionalidade e performance.
 
 Comecei minha carreira no setor bancário e, aos 32 anos, decidi migrar para a tecnologia com o objetivo de **melhorar a experiência das pessoas** por meio de soluções digitais.
